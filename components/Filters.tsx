@@ -5,9 +5,7 @@ import {
   } from "@/components/ui/collapsible"
   import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
   import { Checkbox } from "@/components/ui/checkbox"
-  import { Input } from "@/components/ui/input"
   import { Label } from "@/components/ui/label"
-  import { Search } from "lucide-react"
   import { Button } from "@/components/ui/button"
   
   interface FiltersType {

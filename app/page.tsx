@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input"
 import { Search } from "lucide-react"
 import { DoctorCard } from "@/components/DoctorCard"
 import { Filters } from "@/components/Filters"
-import { Doctor, DoctorList } from "@/data/types"
+import { DoctorList } from "@/data/types"
 import { getDataFromUrl } from "@/data/fetch/fetch"
 
 interface FiltersType {
